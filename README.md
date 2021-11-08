@@ -9,6 +9,7 @@ Fintech Finder intergration to the Ethereum blockchain network, allows customers
 # Visualization
 
 ![alt text](_Ash_Wage_Calc.png)
+![alt text](_Client_Acct_Addr_Blnc.png)
 ![alt text]
 
 # Contributing
