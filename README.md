@@ -8,14 +8,20 @@ Fintech Finder intergration to the Ethereum blockchain network, allows customers
 
 # Visualization
 
-![alt text](_Ash_Wage_Calc.png)
 ![alt text](_Client_Acct_Addr_Blnc.png)
-![alt text]
+![alt text](_Lane_Wage_Calc.png)
+![alt text](_Lane_Pymt.png)
+![alt text](_Ash_Wage_Calc.png)
+![alt text](_Ash_Pymt.png)
+![alt text](_Jo_Wage_Calc.png)
+![alt text](_Jo_Pymt.png)
+![alt text](_Kendall_Wage_Calc.png)
+![alt text](_Kendall_Pymt.png)
+![alt text](_Client_Acct_End_Blnc.png)
 
 # Contributing
 
 Pull requests are welcome. Please open an issue to discuss before executing any changes.
-
 Please make sure to update tests as needed.
 
 # License
